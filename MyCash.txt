@@ -1,0 +1,14 @@
+Caixa	
+	-- Entrada
+		-- data
+		-- valor
+		-- descrição
+		-- nome usuario
+		-- tipo
+	-- Saida
+		-- data
+		-- valor
+		-- descrição
+		-- nome usuario
+		-- tipo
+	-- Usuarios
